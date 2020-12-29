@@ -1,1 +1,1 @@
-alert('Achtung!!');
+import '../styles/styles.css';
